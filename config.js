@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.packName = '𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳'
-global.authorName = 'Yotsuba - Bot'
+global.packName = 'Mr. Bot Lintanf'
+global.authorName = 'Lintang - Bot'
 global.prefix = '#'
 global.mode = 'publik'
-global.ownerNumber = ['687813379','6285878313791']
+global.ownerNumber = ['081322577123','6281322577123']
 global.thumb = fs.readFileSync('./thumb.jpeg')
 
 global.APIs = {
